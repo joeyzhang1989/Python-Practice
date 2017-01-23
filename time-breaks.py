@@ -3,7 +3,6 @@ import time
 
 num = 0;
 
-
 while (num <=2):
     print("This program began on"+time.ctime())
     webbrowser.open("https://goo.gl/")
